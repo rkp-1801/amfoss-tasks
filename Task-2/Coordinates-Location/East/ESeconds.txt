@@ -1,0 +1,4 @@
+The minimum age for United States Senators is 30.
+30"
+$c=30"
+$c >ESeconds.txt

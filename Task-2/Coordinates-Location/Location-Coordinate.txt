@@ -1,0 +1,29 @@
+Equn: 2x^2-5x+2
+dis= b*b-4*a*c
+= 25-4*4
+=25-16=9
+
+9°
+$a=9°
+$a >NDegree.txt
+The only prime number to end with the digit is: 5.
+5'
+$b=5'
+$b >NMinutes.txt
+The largest even number that can not be written as the sum of two odd composite numbers is: 38
+On adding 0.1 to 38: 38.1
+38.1"
+$c=38.1"
+$c >NSeconds.txt
+The atomic number of Osmium is: 76
+On adding degree symbol: 76°
+$a = 76°
+$a >EDegree.txt
+The highest score in a hand of cribbage game is: 29
+29'
+$b=29'
+$b >EMinutes.txt
+The minimum age for United States Senators is 30.
+30"
+$c=30"
+$c >ESeconds.txt

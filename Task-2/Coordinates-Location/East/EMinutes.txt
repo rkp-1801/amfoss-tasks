@@ -1,0 +1,4 @@
+The highest score in a hand of cribbage game is: 29
+29'
+$b=29'
+$b >EMinutes.txt

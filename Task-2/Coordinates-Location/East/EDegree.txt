@@ -1,0 +1,4 @@
+The atomic number of Osmium is: 76
+On adding degree symbol: 76°
+$a = 76°
+$a >EDegree.txt

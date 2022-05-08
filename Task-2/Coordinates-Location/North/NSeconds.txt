@@ -1,0 +1,5 @@
+The largest even number that can not be written as the sum of two odd composite numbers is: 38
+On adding 0.1 to 38: 38.1
+38.1"
+$c=38.1"
+$c >NSeconds.txt
